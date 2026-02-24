@@ -1,8 +1,0 @@
-
-streamlit>=1.34
-pandas
-numpy
-matplotlib
-# If you intend to use Google Firestore for persistence and real‑time updates,
-# uncomment the following line and add your credentials via secrets
-google-cloud-firestore
