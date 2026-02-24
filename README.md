@@ -1,2 +1,0 @@
-# proyecto-taller
-taller
